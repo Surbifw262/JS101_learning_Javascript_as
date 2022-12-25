@@ -1,2 +1,2 @@
 let a=10;
-(a%2==0)?console.log("Even")console.log("Odd");
+(a%2==0)?console.log("Even"):console.log("Odd");
